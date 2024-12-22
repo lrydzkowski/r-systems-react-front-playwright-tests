@@ -1,0 +1,14 @@
+{
+  "name": "r-systems-react-front-playwright-tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Łukasz Rydzkowski",
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "@types/node": "^22.10.2",
+    "dotenv": "^16.4.7",
+    "prettier": "3.4.2",
+    "uuid": "^11.0.3"
+  }
+}
